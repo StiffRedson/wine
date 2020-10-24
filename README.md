@@ -48,7 +48,7 @@ you@name: git clone https://github.com/StiffRedson/wine.git
  Скрипт запускается привычным образом с аргументом (название высланного заказчиком _exel-файла_)
 
 ```
- you@name: python3 main.py wine3
+ you@name: python3 main.py file_name
  ```
 
 Перейдите на сайт по адресу [http://127.0.0.1:8000](http://127.0.0.1:8000).
